@@ -1,0 +1,12 @@
+LATIN WORLD 2.0 — DOS PESTAÑAS
+
+1. Descomprime el ZIP.
+2. En tu repositorio de GitHub sube el contenido de esta carpeta (no el ZIP).
+3. index.html, manifest.webmanifest y service-worker.js deben estar en la raíz.
+4. La carpeta iconos debe permanecer como iconos (con los PNG dentro).
+5. Si GitHub te pide reemplazar archivos, confirma la actualización.
+6. En Settings > Pages: Deploy from a branch, main, /(root).
+7. Abre la web en una pestaña de incógnito para comprobar las DOS pestañas: Calcular tasas y Calculadora de cambios.
+8. Después puedes instalarla desde Safari o Chrome según las opciones disponibles.
+
+Las tasas guardadas se almacenan localmente por navegador y dominio; el nuevo repositorio no importa automáticamente las tasas del anterior.
